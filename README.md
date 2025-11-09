@@ -16,10 +16,10 @@ git clone https://github.com/Mikleo18/Flutter-Projects.git
 ![Water](https://iili.io/KbSAZib.png)
 
 ## Shopping List
-![Main Page](https://iili.io/KbSYi2j.png)
+![main](https://iili.io/KbSYi2j.png)
 
 ## NavigationBar
-![Main Page](https://iili.io/KbSlBgs.png)
+![ilk](https://iili.io/KbSlBgs.png)
 ![Bar](https://iili.io/KbS02vj.png)
 
 
